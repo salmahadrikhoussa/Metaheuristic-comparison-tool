@@ -1,0 +1,3 @@
+[submodule "Metaheuristiques"]
+	path = Metaheuristiques
+	url = https://github.com/BaratiLab/VecMetaPy.git

@@ -1,0 +1,6 @@
+NumPy
+SciPy
+scikit-learn
+pandas
+matplotlib
+fcmaes
